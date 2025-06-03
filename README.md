@@ -38,7 +38,7 @@ Je suis en formation intensive de développement web, avec une forte appétence 
 
 ## 📌 Projets phares
 
-- ✅ [**Task Manager App MERN Stack**](https://github.com/muntassir29/task-manager)
+- ✅ [**Task Manager App MERN Stack**](https://github.com/muntassir29/Task-Management-Application)
 - 📝 [**Weather Application**](https://github.com/muntassir29/weather-app)
 
 > (Pense à adapter les liens si les projets ont d’autres noms)
